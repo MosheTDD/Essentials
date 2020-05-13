@@ -1,0 +1,24 @@
+name: Training
+version: ${project.version}
+main: me.moshe.training.Training
+api-version: 1.13
+authors: [MosheTDD]
+description: Training
+
+commands:
+  speed:
+  fly:
+  getpos:
+  love:
+  freezechat:
+    aliases: [frz]
+  freeze:
+  setspawn:
+  spawn:
+  cage:
+  remove:
+  color:
+  chatcolor:
+  invsee:
+
+

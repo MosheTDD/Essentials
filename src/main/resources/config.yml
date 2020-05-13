@@ -1,0 +1,33 @@
+ilg: '&cIllegal arguments! Please try again with the correct arguments.'
+noPermission: '&cYou do not have permission to execute this command!'
+offilePlayer: '&b%t% &cis offline.'
+notEnoughArgs: '&cNot enough arguments.'
+notAPlayer: '&cOnly Players may execute this command!'
+
+
+
+Setspawn:
+  setSpawn: '&6You have successfully set spawn.'
+
+Spawn:
+  other: '&6You have successfully sent &b%t% &6to spawn.'
+  tpSpawn: '&6You have teleported to spawn.'
+
+Cage:
+  caged: '&6You have been caged! If you will leave the server while caged you will be punished!'
+  targetCaged: '&b%t% &6has been successfully caged.'
+  uncaged: '&6You have been uncaged!'
+  targetUncaged: '&b%t% &6has been uncaged.'
+
+RemoveBlock:
+  done: '&6The task has been successfully done!'
+
+Color:
+  done: '&6The task has been successfully done!'
+
+ChatColor:
+  done: '&6You have successfully changed your chat color to %color%'
+
+Invsee:
+  samePlayer: '&cYou may not invsee yourself'
+  done: '&6You now have access to %t% inventory'
